@@ -1,0 +1,22 @@
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.exe.config
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.exe
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.pdb
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.AssemblyReference.cache
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.Form1.resources
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.Properties.Resources.resources
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.GenerateResource.cache
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.exe
+C:\Users\tsuki\source\repos\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.pdb
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.AssemblyReference.cache
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.Form1.resources
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.Properties.Resources.resources
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.GenerateResource.cache
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.csproj.CoreCompileInputs.cache
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.exe
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\obj\Debug\LocadoraProject.pdb
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.exe.config
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.exe
+C:\Users\nherbert\Documents\vs apresenta\LocadoraProject\LocadoraProject\bin\Debug\LocadoraProject.pdb
